@@ -1,0 +1,16 @@
+# Site settings
+title: The Radiance
+#motto: 
+#email: 
+description: > # this means to ignore newlines until "baseurl:"
+ Embrace the light. If you’re seeking empowerment through the light
+ and love of the Radiance, you have come to the right place.
+ If you are simply interested in our faith then we hope this
+ will serve as a useful resource.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://radiance.host" # the base hostname & protocol for your site
+#twitter_username: 
+github_username:  natis1
+
+# Build settings
+markdown: kramdown
