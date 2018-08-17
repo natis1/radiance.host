@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="well">
+<ul> <h2 class="category">Mods</h2> </ul>
+
+{% for post in site.posts %}
+  {% if post.categories contains 'art' %}
+<h3><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a> {{ post.date }}</h3>
+<hr id="line">
+   <div class="content">
+      {{ post.content }}
+   </div>
+</li>
+  {% endif %}
+{% endfor %}
+<br/><br/>
+</div>
+
