@@ -3,6 +3,7 @@ layout: post
 title:  "Myla"
 date:   2018-07-17 11:23:32
 categories: testimonial
+excerpt: [The radiance] made my world brilliant and happy again...
 ---
 Best I can tell I’m just your average miner girl. I didn’t start that way though. My parents had a small house in the city where they did their best to raise me. They didn’t have a lot of geo but they gave the world to me and let me follow my dreams. I always wanted to be a singer, see. I loved the idea of creating music to share with the whole world. Music makes people happy and I want everyone to be happy, just like me. So, with their blessing I set out into the world to make something of myself and help the world out a little.
 

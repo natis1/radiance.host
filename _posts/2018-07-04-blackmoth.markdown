@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Blackmoth"
+title:  "Blackmoth Mod Spotlight"
 date:   2018-07-04 11:23:32
 categories: modding
+excerpt: An intense and fun Hollow Knight dashing mod...
 ---
 An intense and fun dashing mod for Hollow Knight! Blackmoth, by Gradow, turns Hollow Knight combat into an exciting high risk high reward dance between you and your enemies. Dash around everywhere, and quickly, but at a cost. Your nail becomes ineffective, so all damage must be done through dashing. A fun mod designed to work with Redwing or standalone.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "The Knight"
 date:   2018-07-16 11:23:32
 categories: testimonial
+excerpt: The light inspired me for the first time in my life...
 ---
 Ever since my climb out of the basin I’ve always felt a sense of emptiness. Even under the guide of Hallownest’s most successful king I felt like I was missing something. He loved me, and that might have helped a little, but life was hard. I lived day by day, listening to his orders and never thinking of anything greater. I figured he wanted to help me overcome my state. He fed me well and taught me to fight and I grew, but the nothingness inside grew with me. One day the king ordered me to enter an egg, a dark and desolate prison, and slay a being named the Radiance.
 

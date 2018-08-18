@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Redwing"
+title:  "Redwing Mod Spotlight"
 date:   2018-07-20 11:23:32
 categories: modding
+excerpt: A massive fiery Hollow Knight mod...
 ---
 A massive fiery Hollow Knight mod! Redwing, by Avenging Angle and FoldingPapers, provides your character with numerous radiant, flaming abilities which give you more damage and make you stronger. It's fully configurable, and even includes a hard mode, if you're up for the challenge. Its designed to work with other total overhaul mods, including Lightbringer and Blackmoth.
 
