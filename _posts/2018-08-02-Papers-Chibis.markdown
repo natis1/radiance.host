@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Papers' NPC Chibis"
-date:   2018-07-16 11:22:00
+date:   2018-08-02 11:22:00
 categories: art
 excerpt: 10 chibis of Hollow Knight characters drawn by FoldingPapers...
 ---
-Without further ado, here is all 10 images:
+Without further ado, here is all 10 images (scroll over for names)
 
 ![The Pale King](https://radiance.host/papers/ch1_1.png)
 
