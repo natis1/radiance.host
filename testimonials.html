@@ -7,10 +7,10 @@ layout: default
 
 {% for post in site.posts %}
   {% if post.categories contains 'testimonial' %}
-<h3><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a> </h3>
 <hr id="line">
    <div class="content">
-      {{ post.excerpt }}
+<h3><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a> </h3>
+      {{ post.excerpt }} <br>
    </div>
 </li>
   {% endif %}
