@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Moth Tribe Main Poster"
+date:   2018-08-27 11:22:00
+categories: art
+excerpt: The moth tribe's new poster for 2018! Made by SJL!
+---
+[Join us on Discord](https://discord.gg/ku5TYWY).
+
+![Join the moth tribe](https://radiance.host/art/mothposters-ad.png "The Moth Tribe")
