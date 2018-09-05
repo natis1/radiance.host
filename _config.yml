@@ -14,3 +14,5 @@ github_username:  natis1
 
 # Build settings
 markdown: kramdown
+#exclude: [mods]
+keep_files: [mods]
