@@ -5,7 +5,7 @@ date:   2018-09-10 11:23:32
 categories: modding
 excerpt: The future of Hollow Knight Modding, and what it means for you.
 ---
-The old guard, with the exception of Gradow and 753, has long ago abandoned actively modding the game, and yet the Hollow Knight modding scene is more radiant than ever before. The changes have come painfully slowly, so much that defining any end and beginning points for a modding generation is arbitrary. I'm mostly calling it the forth generation since it comes roughly alongside the forth major update of Hollow Knight. Along with a menagerie of new modders getting into the scene, including Ttacco, Papers, and Xhuis, the tools used by modders has expanded allowing some truly interesting and diverse projects. Here's a list of what modders are doing now. These are tools you should add to your toolbox if you want to make the next giant modern mod.
+The old guard, with the exception of Gradow and 753, and to some extent Seanpr, has long ago abandoned actively modding the game, and yet the Hollow Knight modding scene is more radiant than ever before. The changes have come painfully slow, so defining any end and beginning points for a modding generation is arbitrary. I'm mostly calling it the forth generation since it comes alongside the forth major update of Hollow Knight. Along with a menagerie of new modders getting into the scene, including Ttacco, Papers, and Xhuis, the tools they're using have expanded allowing some truly interesting and diverse projects. Here's a list of what modders are doing now. These are tools you should add to your toolbox if you want to make the next giant modern mod.
 
 Custom in game sprites:
 
